@@ -1,0 +1,25 @@
+
+@media(max-width: 800px){
+    .hideOnMobile{
+        display: none;
+    }
+    nav{
+        background-color: white;
+    }
+    .hamburger{
+        display: block;
+        top: 3%;
+        left: 2%;
+    }
+    .boxes{
+        flex-direction: column;
+        align-items: center;
+        top: 120%;
+    }
+    .text{
+        flex-direction: column;
+    }
+    
+}
+
+   
